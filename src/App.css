@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+.App-search {
+  height: 25px;
+  width: 45%;
+  font-size: 14pt;
+  position: relative;
+}
+
+.App-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: relative;
+}
+
+.Weathercontainer{
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.App-button{
+  margin-left: 10px;
+  padding: 6px 15px;
+}
+
+.App-paragraph {
+  font-size: 15pt;
+}

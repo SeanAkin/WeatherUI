@@ -1,0 +1,1 @@
+export const weatherApiUrl = 'https://localhost:7252/api/';
